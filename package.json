@@ -1,0 +1,16 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_TLS_REJECT_UNAUTHORIZED='0' node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mail-notifier": "^0.5.0",
+    "mailparser": "^3.4.0",
+    "node-imap": "^0.9.6"
+  }
+}
