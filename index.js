@@ -16,8 +16,8 @@ const config = {
      *      1. Enable IMAP in your Gmail account settings => https://support.google.com/mail/answer/7126229?hl=en.
      *      2. Authorize "less secure apps" => https://support.google.com/accounts/answer/6010255?hl=en.
      */
-    user: "strongestmetalonearth@gmail.com",
-    password: "Metal@123!!",
+    user: "<user@mail.com>",
+    password: "<password>",
     host: 'imap.gmail.com',
     port: 993,
     tls: true,
